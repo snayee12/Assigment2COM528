@@ -33,3 +33,70 @@ The system requirements for the project:
 3)	Tomcat
 4)	Chrome/firefox
 
+
+
+The object for the project:
+
+The main objective  for the project is to use the java tool and to be able to do it and make a running program for the shopping cart which can also let the user to explore a catalogue while adding the item to the basket. Which will allow the user to do the transaction from the order and the purchase item.  This application can be done by the admin log in it should be able to access the manage user which can either allow them to make any different changes to the user login to the page. 
+
+Requirement:
+
+With the requirement it can be used with different tools and to make the application working and can be include like:
+
+The application of java for the back end of the whole project.
+Can also be used by the pages include the JavaScript and CSS of some html part.
+
+
+Features 
+
+1)	Can allow the user and can be able to delate it or modify the changes of the catalogue.
+2)	With the administrator to. Remove of the. catalogue.
+3)	The system can be interact of the bank service client over the interface to make a charge of the user credit card.
+
+
+Point of view admin side
+
+The admin 	Action	Response
+1	log in 	goes to the user admin 
+2	it goes straight to the basket or the admin and manage the catalogue
+	redirect to the page
+3	admin can the item 	then it will add the items into the catalogue page for the admin and the user.
+4	then the admin can remove the user.	can be remove the user out from the database. 
+5	can view all of the orders	the admin can see the view page into the order page.
+![image](https://user-images.githubusercontent.com/46923057/148700685-5400e500-a917-4e74-8cd1-0dc422987c3f.png)
+
+User point of view
+
+![image](https://user-images.githubusercontent.com/46923057/148700699-383781d6-7235-4dca-b004-94cbb4f830d1.png)
+
+User Tests![image](https://user-images.githubusercontent.com/46923057/148700718-21c5f6f9-b9bf-4d38-912f-8f9223680c90.png)
+
+Admin Test:![image](https://user-images.githubusercontent.com/46923057/148700731-a4a62690-43e1-41dd-bb84-9f11ccf4d6b9.png)
+
+Robustness diagram 
+
+
+With the diagram it will show you the use case behaviour and can be include the participant of the classes and the software. The graphic will show you a user of buying the item from the catalogue, and then entering the card detail to buy the selected item. It can also show you the admin part of side such as and can be modifying the items and with the user of details. 
+
+
+![image](https://user-images.githubusercontent.com/46923057/148700751-dda7b167-e812-4b62-a3dd-f3874d35e960.png)
+
+Sequence diagram: 
+
+The sequence diagram is the depict of the interaction of that must can be occur of the order for a processes to be completed. The diagram underneath shows the role of the each user which can be include the user and the customer, admin also it shows the important information of the cart.
+
+
+![image](https://user-images.githubusercontent.com/46923057/148700763-00ae172c-5f2a-4087-87ac-cde71e163973.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
