@@ -58,6 +58,38 @@ Point of view admin side:
 (https://user-images.githubusercontent.com/46923057/148701337-0108d472-adca-4d4e-a7f6-d6571f0e801f.png)
 
 
+User point of view
+(https://user-images.githubusercontent.com/46923057/148701572-063c7234-408b-4c76-92e6-d37ba6e195bc.png)
+
+
+User Tests
+(https://user-images.githubusercontent.com/46923057/148701588-59a2a7e9-58ae-4c6b-9b48-2ab350da3ddf.png)
+
+
+admin test
+(https://user-images.githubusercontent.com/46923057/148701646-947429d2-521a-4778-964d-1dd966dfe222.png)
+
+Robustness diagram 
+
+
+With the diagram it will show you the use case behaviour and can be include the participant of the classes and the software. The graphic will show you a user of buying the item from the catalogue, and then entering the card detail to buy the selected item. It can also show you the admin part of side such as and can be modifying the items and with the user of details. 
+
+(https://user-images.githubusercontent.com/46923057/148701668-5ece9a47-c008-45ef-806c-9ffb87c1dbd8.png)
+
+Sequence diagram: 
+
+The sequence diagram is the depict of the interaction of that must can be occur of the order for a processes to be completed. The diagram underneath shows the role of the each user which can be include the user and the customer, admin also it shows the important information of the cart.
+
+(https://user-images.githubusercontent.com/46923057/148701689-4cbbc8c2-2e1e-4f2e-9edc-7d03c04a8716.png)
+
+
+
+
+
+
+
+
+
 
 
 
