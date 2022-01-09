@@ -56,7 +56,23 @@ Features
 
 Point of view admin side:
 
-![image](https://user-images.githubusercontent.com/46923057/148701134-2b3a33ba-08f7-440f-8ea4-dd821bb7a509.png)
+The admin 	Action	Response
+1	log in 	goes to the user admin 
+2	it goes straight to the basket or the admin and manage the catalogue
+	redirect to the page
+3	admin can the item 	then it will add the items into the catalogue page for the admin and the user.
+4	then the admin can remove the user.	can be remove the user out from the database. 
+5	can view all of the orders	the admin can see the view page into the order page.
+![image](https://user-images.githubusercontent.com/46923057/148701337-0108d472-adca-4d4e-a7f6-d6571f0e801f.png)
+
+
+
+
+
+
+
+
+
 
 
 
